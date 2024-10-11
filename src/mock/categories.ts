@@ -1,0 +1,1 @@
+export const categoriesList = ['Appetizer', 'Salad', 'Eat fresh', 'Juice', 'Smoothie']

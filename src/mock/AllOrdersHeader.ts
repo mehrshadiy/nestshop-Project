@@ -1,0 +1,1 @@
+export const allOrdersHeader = ["Order ID", "Date", "Status", "Total", "Actions"]
